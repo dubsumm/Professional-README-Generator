@@ -1,9 +1,6 @@
-const { title } = require("process");
+# Super Fun Proj 9000
 
-function ReadMeGenerate(content) {
-return `# ${content.title}
-
-## Description: ${content.description}
+## Description: this will create a porfessional readme.md file for projects
 
 ## Table of Contents
 
@@ -18,7 +15,7 @@ return `# ${content.title}
 
 Do exactly this:
 
-   ${content.install}
+   npm i inquirer
 
 ______________________________________________
 
@@ -26,7 +23,7 @@ ______________________________________________
 
 You can only use this for:
 
-    ${content.usage}
+    for learning how to code
 
 ______________________________________________
 
@@ -34,7 +31,7 @@ ______________________________________________
 
 This repo is licensed with:
 
-        ${content.license};
+        MIT;
 
 ______________________________________________
 
@@ -42,7 +39,7 @@ ______________________________________________
 
 Contact me or follow at:
 
-    ${content.github}
+    https://github.com/dubsumm
 
 ______________________________________________
 
@@ -50,7 +47,7 @@ ______________________________________________
 
 Special thanks to:
 
-    ${content.contributors}
+    just ME
 
 ______________________________________________
 
@@ -58,12 +55,7 @@ ______________________________________________
 
 Best way to test this is:
 
-    ${content.tests}
+    No testing required. GOT it!
 
 ______________________________________________
 
-`
-
-}
-
-module.exports = ReadMeGenerate;
