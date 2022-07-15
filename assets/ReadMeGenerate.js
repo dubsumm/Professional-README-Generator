@@ -7,12 +7,12 @@ return `# ${content.title}
 
 ## Table of Contents
 
-1. [Install] (#install)
-2. [Usage] (#usage)
-3. [License] (#license)
-4. [Github] (#github)
-5. [Contributors] (#contributors)
-6. [Tests] (#tests)
+- [Install](#install)
+- [Usage](#usage)
+- [License](#license)
+- [Github](#github)
+- [Contributors](#contributors)
+- [Tests](#tests)
 
 ## Install 
 

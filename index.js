@@ -47,7 +47,6 @@ const questions  = [
         type: 'input',
         name: 'tests',
         message: 'Input tests:',
-        default: 'No testing required. GOT it!'
       },
   ]
 

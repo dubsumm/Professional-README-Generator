@@ -1,15 +1,15 @@
-# Super Fun Proj 9000
+# wills readme
 
-## Description: this will create a porfessional readme.md file for projects
+## Description: its for learning how to code
 
 ## Table of Contents
 
-1. [Install] (#install)
-2. [Usage] (#usage)
-3. [License] (#license)
-4. [Github] (#github)
-5. [Contributors] (#contributors)
-6. [Tests] (#tests)
+- [Install](#install)
+- [Usage](#usage)
+- [License](#license)
+- [Github](#github)
+- [Contributors](#contributors)
+- [Tests](#tests)
 
 ## Install 
 
@@ -23,7 +23,7 @@ ______________________________________________
 
 You can only use this for:
 
-    for learning how to code
+    for fun
 
 ______________________________________________
 
@@ -31,7 +31,7 @@ ______________________________________________
 
 This repo is licensed with:
 
-        MIT;
+        GPL 3.0;
 
 ______________________________________________
 
@@ -55,7 +55,7 @@ ______________________________________________
 
 Best way to test this is:
 
-    No testing required. GOT it!
+    no tests
 
 ______________________________________________
 
